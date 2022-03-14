@@ -1,0 +1,13 @@
+current directory: C:/fichasparaclio/fichasparaclio-1/vendor/bundle/ruby/2.6.0/gems/json-2.6.1/ext/json
+C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/2.6.0 -r ./siteconf20220314-7772-177fkzi.rb extconf.rb
+creating Makefile
+
+current directory: C:/fichasparaclio/fichasparaclio-1/vendor/bundle/ruby/2.6.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: C:/fichasparaclio/fichasparaclio-1/vendor/bundle/ruby/2.6.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: No se hace nada para 'all'.
+
+current directory: C:/fichasparaclio/fichasparaclio-1/vendor/bundle/ruby/2.6.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
