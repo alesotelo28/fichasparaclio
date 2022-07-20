@@ -1,5 +1,5 @@
 ---
-sitemap: false
+sitemap false
 ---
 
 
@@ -10,9 +10,6 @@ sitemap: false
 */
 
 /* Fonts */
-$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$heading-font: sans-serif;
-$regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
 
 
 /*
@@ -21,15 +18,8 @@ $regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in al
   Make sure to leave color-scheme in `_config.yml` file empty for granular control
 */
 
-$text-color: #454545;
-$heading-color: #404040;
-$link-color: #34bd9a;
 
-@import "ed";
-@import "syntax";
-@import "CETEIcean.css";
 
-*{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 .poster img { float: center; width: 50%; margin-bottom: 0; margin-left: 20px; margin-top: 20px; }
 .poster p { float: center; width: 50%; margin-bottom: 0; margin-left: 20px; margin-top: 20px; }
 
