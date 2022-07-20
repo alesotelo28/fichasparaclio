@@ -29,7 +29,7 @@ index.addDoc({
   title: null,
   author: null,
   layout: null,
-  content: "\n\n\n Ed.\n \n \n 2022-07-20T13:37:26-03:00\n http://localhost:4000\n \n   Alex Gil\n   colibri.alex@gmail.com\n \n\n \n\n\n",
+  content: "\n\n\n Ed.\n \n \n 2022-07-20T17:42:06-03:00\n http://localhost:4000\n \n   Alex Gil\n   colibri.alex@gmail.com\n \n\n \n\n\n",
   id: 2
 });
 index.addDoc({
