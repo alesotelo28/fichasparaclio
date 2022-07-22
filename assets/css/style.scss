@@ -2,6 +2,7 @@
 sitemap: false
 ---
 
+@import url(CETEIcean.css), "ed", "syntax";
 
 /*
   Common Variables
@@ -25,9 +26,7 @@ $text-color: #454545;
 $heading-color: #404040;
 $link-color: #34bd9a;
 
-@import "ed";
-@import "syntax";
-@import "CETEIcean.css";
+
 
 .poster img { float: center; width: 50%; margin-bottom: 0; margin-left: 20px; margin-top: 20px; }
 .poster p { float: center; width: 50%; margin-bottom: 0; margin-left: 20px; margin-top: 20px; }
