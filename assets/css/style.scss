@@ -19,6 +19,16 @@ sitemap false
 */
 
 
+@import url(CETEIcean.css);
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+html, body { margin: 0; padding: 0; overflow-x: hidden; }
+
+html { font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: 1em; /* 16px; specify in ems to support text resizing in all browsers */ line-height: 1.5; }
+
+@media (min-width: 38em) { html { font-size: 1.25em; } }
+
+body { color: #454545; background-color: #fff; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
 .poster img { float: center; width: 50%; margin-bottom: 0; margin-left: 20px; margin-top: 20px; }
 .poster p { float: center; width: 50%; margin-bottom: 0; margin-left: 20px; margin-top: 20px; }
