@@ -43,8 +43,8 @@ kramdown:
 
 # Exclusions from the final site
 exclude:
-  - optional
   - vendor
+
 
 # Theme
 theme: "ed."
