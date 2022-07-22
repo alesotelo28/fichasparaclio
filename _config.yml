@@ -48,6 +48,6 @@ exclude:
 
 
 # Theme
-theme: "ed."
+remote_theme: "ed."
 
 
